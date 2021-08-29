@@ -90,7 +90,7 @@ The tutorial index for TF v1 is available here: [TensorFlow v1.15 Examples](tens
 
 #### 1 - Introduction
 - **Hello World** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v1/notebooks/1_Introduction/helloworld.ipynb)) ([code](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v1/examples/1_Introduction/helloworld.py)). Very simple example to learn how to print "hello world" using TensorFlow.
-- **Basic Operations** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/tensorflow_v1/1_Introduction/basic_operations.ipynb)) ([code](https://github.com/aymericdamien/TensorFlow-examples/Examples/blob/master/tensorflow_v1/1_Introduction/basic_operations.py)). A simple example that cover TensorFlow basic operations.
+- **Basic Operations** ([notebook](https://github.com/ajithpious/TensorFlow-Examples/blob/master/tensorflow_v1/notebooks/1_Introduction/basic_operations.ipynb)) ([code](https://github.com/aymericdamien/TensorFlow-examples/Examples/blob/master/tensorflow_v1/1_Introduction/basic_operations.py)). A simple example that cover TensorFlow basic operations.
 - **TensorFlow Eager API basics** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v1/notebooks/1_Introduction/basic_eager_api.ipynb)) ([code](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v1/examples/1_Introduction/basic_eager_api.py)). Get started with TensorFlow's Eager API.
 
 #### 2 - Basic Models
